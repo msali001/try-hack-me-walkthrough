@@ -1,0 +1,11 @@
+python -c "import pty; pty.spawn('/bin/bash')"
+ctl z (BG)
+i dont know what the following is 
+stty raw -echo
+FG - enter
+export TERM=xterm
+
+COMPLETED
+
+
+
