@@ -24,23 +24,26 @@ gobuster located
 /content
 
 ```
-searchsploit returned
+Searchsploit
 
 ```
- Exploit Title                                                                                                 |  Path
---------------------------------------------------------------------------------------------------------------- -----------------------
-SweetRice 0.5.3 - Remote File Inclusion                                                                        | php/webapps/10246.txt
-SweetRice 0.6.7 - Multiple Vulnerabilities                                                                     | php/webapps/15413.txt
-SweetRice 1.5.1 - Arbitrary File Download                                                                      | php/webapps/40698.py
-SweetRice 1.5.1 - Arbitrary File Upload                                                                        | php/webapps/40716.py
-SweetRice 1.5.1 - Backup Disclosure                                                                            | php/webapps/40718.txt
-SweetRice 1.5.1 - Cross-Site Request Forgery                                                                   | php/webapps/40692.html
-SweetRice 1.5.1 - Cross-Site Request Forgery / PHP Code Execution                                              | php/webapps/40700.html
-SweetRice < 0.6.4 - 'FCKeditor' Arbitrary File Upload                                                          | php/webapps/14184.txt
---------------------------------------------------------------------------------------------------------------- -----------------------
+searchsploit SweetRice
+
+returned
+
+ Exploit Title                                                                                   |  Path
+------------------------------------------------------------------------------------------------- -----------------------
+SweetRice 0.5.3 - Remote File Inclusion                                                          | php/webapps/10246.txt
+SweetRice 0.6.7 - Multiple Vulnerabilities                                                       | php/webapps/15413.txt
+SweetRice 1.5.1 - Arbitrary File Download                                                        | php/webapps/40698.py
+SweetRice 1.5.1 - Arbitrary File Upload                                                          | php/webapps/40716.py
+SweetRice 1.5.1 - Backup Disclosure                                                              | php/webapps/40718.txt
+SweetRice 1.5.1 - Cross-Site Request Forgery                                                     | php/webapps/40692.html
+SweetRice 1.5.1 - Cross-Site Request Forgery / PHP Code Execution                                | php/webapps/40700.html
+SweetRice < 0.6.4 - 'FCKeditor' Arbitrary File Upload                                            | php/webapps/14184.txt
+------------------------------------------------------------------------------------------------- -----------------------
 
 ```
-
 SweetRice 1.5.1 - Backup Disclosure  ----- Worked
 ```
 Username and password ---- manager - Password123
@@ -82,7 +85,3 @@ THM{63e5bce9271952aad1113b6f1ac28a07}
 ```
 THM{6637f41d0177b6f37cb20d775124699f}
 ```
-
-
-
-
